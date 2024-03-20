@@ -19,6 +19,6 @@ def test_calculate_area_square_positive():
 
 def test_calculate_area_square_positive():
     # Test for positive integer input
-    assert calculate_area_square(99) == 9801
+    assert calculate_area_square(10) == 100
 
   
